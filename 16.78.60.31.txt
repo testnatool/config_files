@@ -3,8 +3,6 @@
 ! Last configuration change at 20:52:26 UTC Tue Jul 23 2013 by Manager
 ! NVRAM config last updated at 18:49:12 UTC Thu Jul 18 2013 by Manager
 !
-breaking & entering
-
 version 15.1
 no service pad
 service timestamps debug datetime
